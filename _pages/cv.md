@@ -66,18 +66,6 @@ Skills
 * Writing
   * Attended Writing for non-peers and press’ at ‘Let’s talk Science’ 2020 (KU Leuven)
   * Write for ‘Popular Astronomy’ magazine
-
-Publications
-======
-    {% include archive-single-cv.html %}
-  
-Talks
-======
-    {% include archive-single-talk-cv.html %}
-  
-Teaching
-======
-    {% include archive-single-cv.html %}
   
 Service and leadership
 ======
