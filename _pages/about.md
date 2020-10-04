@@ -29,7 +29,7 @@ One of my interests is studying the envrionments and disks surrounding massive y
 Spectroscopy of Herbig Discs
 ======
 
-As a member of the Instituut voor Sterrekunde at KU Leuven, I enjoy observing with the HERMES spectrometer at the KU Leuven-owned Mercator telescope. With my observing time, a new project I have started uses the instrument to study the inner regions of Herbig discs using optical/infrared spectroscopy.
+As a member of the Instituut voor Sterrekunde at KU Leuven, I enjoy observing with the HERMES spectrometer at the KU Leuven-owned Mercator telescope. With my observing time, a new project I have started uses the instrument to study the inner regions of Herbig discs using optical/infrared spectroscopy in collaboration with other postdoctoral researchers at Leiden Observatory and ALMA.
 
 Astronomers for Planet Earth
 ======
