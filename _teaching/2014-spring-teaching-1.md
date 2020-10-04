@@ -4,7 +4,7 @@ collection: teaching
 type: "Main contact supervisor"
 permalink: /teaching/2014-spring-teaching-1
 venue: "KU Leuven"
-date: 2019
+date: 2019-01-01
 location: "Leuven, Belgium"
 ---
 
