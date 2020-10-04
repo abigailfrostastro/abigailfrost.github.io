@@ -84,7 +84,7 @@ author:
   avatar           : "JOBPHOTO.png"
   bio              : "Astrophysicist studying massive stars and star and planet formation"
   location         : #"Belgium"
-  employer         : "https://fys.kuleuven.be/ster/staff/junior-staff/abigail-frost"
+  employer         : #"https://fys.kuleuven.be/ster/staff/junior-staff/abigail-frost"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : 
