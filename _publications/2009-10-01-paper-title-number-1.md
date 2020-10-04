@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "A multi-scale exploration of a massive young stellar object. A transition disk around G305.20+0.21?"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2019-05-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://ui.adsabs.harvard.edu/abs/2019A%26A...625A..44F/abstract'
+citation: 'Frost, A. J. (2019). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper describes a multi-scale study of an MYSO which encorporated N-band interferometry, Q-band imaging, spectral energy distributions and 3D radiative transfer modelling. By fitting the three observables to one RT model simultaneously, the MYSO environment was probed at 0.01", 0.1" and as a whole, which allowed the inner disc to be probed and characteristics analgous to the transitions discs around low-mass stars to be detected.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Read here](https://ui.adsabs.harvard.edu/abs/2019A%26A...625A..44F/abstract)
