@@ -83,11 +83,11 @@ author:
   name             : "Abigail J. Frost"
   avatar           : "profile.png"
   bio              : "Astrophysicist studying massive stars and star and planet formation"
-  location         : "Belgium"
-  employer         :
+  location         : #"Belgium"
+  employer         : "https://fys.kuleuven.be/ster/staff/junior-staff/abigail-frost"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
