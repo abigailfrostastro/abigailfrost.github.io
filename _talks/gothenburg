@@ -1,0 +1,26 @@
+---
+title: "Unveiling the traits of MYSOs using a high-resolution, multi-scale analysis"
+collection: talks
+type: "Talk"
+permalink: /talks/2014-03-01-talk-3
+venue: "From Stars to Planets II conference"
+date: 2019-06-01
+location: "Chalmers, Gothenburg, Sweden"
+---
+
+Discs are a crucial component of the low-mass star formation process and many types of discs have been
+found around low-mass protostars. The transition disc [e.g. 1] is one such type and represents an
+evolutionary step from the young, accreting protoplanetary disc to the older debris disc when observed
+around low-mass stars. Massive protostars are deeply embedded and difficult to observe, and as such only a
+few cases of early-type Keplerian discs have been identified around O-type stars [2] [3] [4].
+In this talk I will discuss our recent work [5] which infers the presence of the first observed transition disc
+around a massive young stellar object. By simultaneously fitting a 3D radiative transfer model to infrared
+interferometric data (MIDI, VLTI), a near-diffraction-limited image (VISIR, VLT) and a spectral energy
+distribution, we have constrained the geometry of an MYSO from ~10mas scales upwards. Our results show
+a that a disk is required to satisfy the interferometric data, that the inner circumstellar regions must cleared
+out to a radius three times the size of the dust sublimation radius, and that the MYSO is less dense than
+others of its class. These characteristics imply that this object may be one of the first observed examples of a
+transition disc phase around a massive young star, and a prime example to test theories of circumstellar disc
+dispersal and the end stages of accretion in massive protostars.
+
+[More information here](https://www.chalmers.se/en/conference/FSTP2/Pages/default.aspx)
