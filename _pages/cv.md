@@ -62,13 +62,12 @@ Skills
 * Modelling
   * Radiative transfer (HOCHUNK Whitney 2013, Hyperion Robitaille)
   * Geometric modelling
-  * Sub-skill 2.3
 * Writing
   * Attended Writing for non-peers and press’ at ‘Let’s talk Science’ 2020 (KU Leuven)
   * Write for ‘Popular Astronomy’ magazine
   
 Service and leadership
 ======
-* Astronomers for Earth
+* [Astronomers for Earth](https://astronomersforplanet.earth/)
 * LOC/VOC for 2 KU Leuven seminars
 * Bachelors and PhD student supervisor
