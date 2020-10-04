@@ -27,9 +27,11 @@ The circumstellar environments of massive young stellar objects
 One of my interests is studying the envrionments and disks surrounding massive young stellar objects. While low-mass star formation has been observed to the point where multiple disc phases have been observed and identified, disc evolution is yet to be confirmed for high-mass stars. I studied MYSOs extensively during my PhD, using a combination of infrared interferometry, imaging, spectral energy distributions and 3D radiative transfer modellings. I am currently involved in a number of follow-up projects focussed on this work using, MATISSE, spase-aperture-masking (SAM) where an imaging telescope produces interferometric observables through the use of a mask and future plans to use the ELT. The pilot paper from my PhD work which focusses on a potential transitions disc around an MYSO can be found [here](https://ui.adsabs.harvard.edu/abs/2019A%26A...625A..44F/abstract) and two papers presenting the results of multi-scale survey of MYSO discs and their findings have been submitted. 
 
 Spectroscopy of Herbig Discs
-------
+======
+
 As a member of the Instituut voor Sterrekunde at KU Leuven, I enjoy observing with the HERMES spectrometer at the KU Leuven-owned Mercator telescope. With my observing time, a new project I have started uses the instrument to study the inner regions of Herbig discs using optical/infrared spectroscopy.
 
 Astronomers for Planet Earth
-------
+======
+
 I am a member of the [Astronomers for Planet Earth](https://astronomersforplanet.earth/), which seeks to bring astronomers together to help engage the public with the details of the climate crisis and to discuss how we can make astronomy as a field more environmentally friendly. I am on the SOC for groups proposed sessions for the European Astronomy Society 2021 conference. 
