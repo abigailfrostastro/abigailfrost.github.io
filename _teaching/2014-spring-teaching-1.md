@@ -1,7 +1,7 @@
 ---
 title: "Supervison"
 collection: teaching
-type: "Main contact supervisor"
+type: "PhD and BSc students"
 permalink: /teaching/2014-spring-teaching-1
 venue: "KU Leuven"
 date: 2019-01-01
