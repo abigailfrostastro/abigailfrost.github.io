@@ -26,9 +26,9 @@ Experience
   * Three-month placement at ESO’s Santiago Office enabled by the ESO Director General Discretionary Fund. Studied mid-IR interferometry and3D radiative transfer modelling. 
   * Supervisor: Dr. Willem-Jan de Wit
   
-  * Jun-Aug 2015: Summer Student
-  * European Southern Observatory
-  * Awarded a funding for the program among∼15 other students from over 100 applicants. Project Title - ‘Relating the ionised and warmmolecular gas in three massive star forming regions’
+* Jun-Aug 2015: Leiden/ESA Program for Summer students (LEAPS)
+  * Leiden Observatory
+  * Awarded a funding for the program among ~15 other students from over 100 applicants. Project Title - ‘Relating the ionised and warmmolecular gas in three massive star forming regions’
   * Supervisor: Dr. Pamela Klaassen
   
 Prizes
