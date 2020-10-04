@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-05-01
-venue: 'Journal 1'
+venue: 'A&A'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2019A%26A...625A..44F/abstract'
 citation: 'Frost, A. J. (2019). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
