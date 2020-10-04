@@ -48,7 +48,7 @@ Telescope time as PI
 Outreach
 ======
 * ‘Astronomy for All’ Workshop at the University of Leeds - Developing sign language for astrophysics - September 2019
-  * Working with Dr. Olja Panic (who runs this initiative) at the University of Leeds I helped to explain astrophysical concepts to enable thegeneration of new signs for British Sign Language. We worked with linguists and deaf amateur astronomers/instrumentalists to develop signsrelevant to star formation.
+  * Working with Dr. Olja Panic (who runs this initiative) at the University of Leeds I helped to explain astrophysical concepts to enable the generation of new signs for British Sign Language. We worked with linguists and deaf amateur astronomers and instrumentalists to develop signs relevant to star formation.
 * ‘Pint of Science’ Festival - I hosted, presented at and helped to organize days of this outreach festival which is held in 34 cities across the UK.
 * Research Nights - Public engagement talk. Talk title: ‘How do giants grow? Where the most massive stars in our universe come from’ - Public audience
 
@@ -65,6 +65,9 @@ Skills
 * Writing
   * Attended Writing for non-peers and press’ at ‘Let’s talk Science’ 2020 (KU Leuven)
   * Write for ‘Popular Astronomy’ magazine
+* Language
+  * Spanish (basic working proficiency) 
+  * Dutch (learning)
   
 Service and leadership
 ======
