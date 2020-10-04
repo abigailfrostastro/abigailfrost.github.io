@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abigail Frost"
+title                    : "Dr. Abigail Frost"
 title_separator          : "-"
 name                     : &name "Abigail Frost"
 description              : &description "personal description"
