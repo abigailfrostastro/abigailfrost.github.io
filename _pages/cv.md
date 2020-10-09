@@ -71,7 +71,6 @@ Skills
   * Radiative transfer (HOCHUNK Whitney 2013, Hyperion Robitaille)
   * Geometric modelling
 * Writing
-  * Attended Writing for non-peers and press’ at ‘Let’s talk Science’ 2020 (KU Leuven)
   * Write for ‘Popular Astronomy’ magazine
 * Language
   * Spanish (basic working proficiency) 
