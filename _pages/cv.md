@@ -52,6 +52,12 @@ Outreach
 * ‘Pint of Science’ Festival - I hosted, presented at and helped to organize days of this outreach festival which is held in 34 cities across the UK.
 * Research Nights - Public engagement talk. Talk title: ‘How do giants grow? Where the most massive stars in our universe come from’ - Public audience
 
+Courses
+======
+* Introduction to Spectroscopy - STFC - 2015
+* St. Andrew Monte Carlo Summer School - University of St. Andrews - 2018
+* Introduction to Astrobiology - Amity University - 2020
+
 Skills
 ======
 * Computing
