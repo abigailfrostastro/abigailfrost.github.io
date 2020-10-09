@@ -55,7 +55,7 @@ Outreach
 Courses
 ======
 * Introduction to Spectroscopy - STFC - 2015
-* St. Andrew Monte Carlo Summer School - University of St. Andrews - 2018
+* St. Andrew Monte Carlo Summer School - University of St. Andrews - 2017
 * Introduction to Astrobiology - Amity University - 2020
 
 Skills
