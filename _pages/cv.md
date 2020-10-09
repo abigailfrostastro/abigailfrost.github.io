@@ -56,6 +56,8 @@ Courses
 ======
 * Introduction to Spectroscopy - STFC - 2015
 * St. Andrew Monte Carlo Summer School - University of St. Andrews - 2017
+* Supervising masters students - KU Leuven - 2020
+* Writing for non-peers and press - ‘Let’s talk Science’ meeting - 2020
 * Introduction to Astrobiology - Amity University - 2020
 
 Skills
