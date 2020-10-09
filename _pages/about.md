@@ -34,4 +34,4 @@ As a member of the Instituut voor Sterrekunde at KU Leuven, I enjoy observing wi
 Astronomers for Planet Earth
 ======
 
-I am a member of the [Astronomers for Planet Earth](https://astronomersforplanet.earth/), which seeks to bring astronomers together to help engage the public with the details of the climate crisis and to discuss how we can make astronomy as a field more environmentally friendly. I am on the SOC for groups proposed sessions for the European Astronomy Society 2021 conference. 
+I am a member of the [Astronomers for Planet Earth](https://astronomersforplanet.earth/), which seeks to bring astronomers together to help engage the public with the details of the climate crisis and to discuss how we can make astronomy as a field more environmentally friendly. I am on the SOC for the group's proposed sessions for the European Astronomy Society 2021 conference. 
