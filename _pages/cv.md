@@ -21,9 +21,9 @@ Experience
   * Taught the intricacies of the technique of sparse aperture masking, where using a mask with an imaging instrument results in visibilities andclosure phases. Received data reduction pipelines for use with the T-ReCs, NIRC2 and NACO instruments.
   * Supervisor: Prof. Peter Tuthill, Dr. Barnaby Norris
 
-* Oct-Dec 2015: Research Assistant
+* Oct-Dec 2015: DTGF Student
   * European Southern Observatory
-  * Three-month placement at ESO’s Santiago Office enabled by the ESO Director General Discretionary Fund. Studied mid-IR interferometry and3D radiative transfer modelling. 
+  * Three-month placement at ESO’s Santiago Office enabled by the ESO Director General Discretionary Fund (DTGF). Studied mid-IR interferometry and3D radiative transfer modelling. 
   * Supervisor: Dr. Willem-Jan de Wit
   
 * Jun-Aug 2015: Leiden/ESA Program for Summer students (LEAPS)
