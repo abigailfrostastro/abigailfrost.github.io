@@ -81,3 +81,5 @@ Service and leadership
 * [Astronomers for Earth](https://astronomersforplanet.earth/)
 * LOC/VOC for 2 KU Leuven seminars
 * Bachelors and PhD student supervisor
+* Panelist for the Diversity & Inclusion podium discussion at [ESO IR 2020](https://www.eso.org/sci/meetings/2020/IR2020/program.html) 
+* Panelist for the 'How can we continue building this community, especially for early-career researchers?' discussion session at [ESO IR 2020](https://www.eso.org/sci/meetings/2020/IR2020/program.html) 
