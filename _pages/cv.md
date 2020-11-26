@@ -56,6 +56,14 @@ Outreach
 * Outreach talk for the 'Astrozoom' amateur astronomers association - Nov. 2020
 * Part of the 'Skype a Scientist' program - discuss astronomy and astrophysics with children from kindergarten to high school ages. Schools I have worked with are:
   * The New American Academy Charter School - Dec. 2020
+  
+Service and leadership
+======
+* [Astronomers for Earth](https://astronomersforplanet.earth/)
+* LOC/VOC for 2 KU Leuven seminars
+* Bachelors and PhD student supervisor
+* Panelist for the Diversity & Inclusion podium discussion at [ESO IR 2020](https://www.eso.org/sci/meetings/2020/IR2020/program.html) 
+* Panelist for the 'How can we continue building this community, especially for early-career researchers?' discussion session at [ESO IR 2020](https://www.eso.org/sci/meetings/2020/IR2020/program.html) 
 
 Courses
 ======
@@ -80,11 +88,3 @@ Skills
 * Language
   * Spanish (basic working proficiency) 
   * Dutch (learning)
-  
-Service and leadership
-======
-* [Astronomers for Earth](https://astronomersforplanet.earth/)
-* LOC/VOC for 2 KU Leuven seminars
-* Bachelors and PhD student supervisor
-* Panelist for the Diversity & Inclusion podium discussion at [ESO IR 2020](https://www.eso.org/sci/meetings/2020/IR2020/program.html) 
-* Panelist for the 'How can we continue building this community, especially for early-career researchers?' discussion session at [ESO IR 2020](https://www.eso.org/sci/meetings/2020/IR2020/program.html) 
