@@ -47,10 +47,15 @@ Telescope time as PI
 
 Outreach
 ======
-* ‘Astronomy for All’ Workshop at the University of Leeds - Developing sign language for astrophysics - September 2019
+* Research Nights - Public engagement talk. Talk title: ‘How do giants grow? Where the most massive stars in our universe come from’ - Nov. 2018
+* ‘Pint of Science’ Festival - I hosted, presented at and helped to organize days of this outreach festival which is held in 34 cities across the UK - 2017-2019
+* ‘Astronomy for All’ Workshop at the University of Leeds - Developing sign language for astrophysics - Sep. 2019
   * Working with Dr. Olja Panic (who runs this initiative) at the University of Leeds I helped to explain astrophysical concepts to enable the generation of new signs for British Sign Language. We worked with linguists and deaf amateur astronomers and instrumentalists to develop signs relevant to star formation.
-* ‘Pint of Science’ Festival - I hosted, presented at and helped to organize days of this outreach festival which is held in 34 cities across the UK.
-* Research Nights - Public engagement talk. Talk title: ‘How do giants grow? Where the most massive stars in our universe come from’ - Public audience
+* School visit to De Zonnewijzer school in Wijgmaal, Belgium. Presented the talk 'How do you build a star?' to a class of 10-11yr olds - Oct. 2020
+* Outreach talk at ESO IR 2020 conference outreach program ["Infrared Astronomy for everyone and worldwide!"](https://www.youtube.com/watch?ab_channel=HausderAstronomie&feature=youtu.be&utm_campaign=SocialSignIn&utm_medium=social&utm_source=Facebook&v=wK8rCl-Pvl4&app=desktop) - Oct. 2020
+* Outreach talk for the 'Astrozoom' amateur astronomers association - Nov. 2020
+* Part of the 'Skype a Scientist' program - discuss astronomy and astrophysics with children from kindergarten to high school ages. Schools I have worked with are:
+  * The New American Academy Charter School - Dec. 2020
 
 Courses
 ======
