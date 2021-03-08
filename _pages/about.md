@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I have a new website! Please follow [this link](https://sites.google.com/view/abigail-frost-astro/home) to see my up-to-date information.
+
 I am a postdoctoral research associate interested in star and planet formation, massive stars and stellar multiplicity, which I study using some of the most powerful instruments available, such as those at the [Very Large Telescope/Interferometer](https://www.eso.org/public/teles-instr/paranal-observatory/vlt/) (VLTI) in Chile. My journey into astrophysics started with my masters degree (MPhys) at the [University of Exeter](http://www.skraus.eu/group.html). I went on to study for my PhD in Astrophysics at the [University of Leeds](https://eps.leeds.ac.uk/physics/pgr/4861/abigail-frost), which focussed on the study of the circumstellar environments of massive forming stars and their discs in the infrared. I currently work at [KU Leuven](https://fys.kuleuven.be/ster/staff/junior-staff/abigail-frost) in Belgium as a part of the [ERC MULTIPLES project](https://fys.kuleuven.be/ster/research-projects/multiples/). My various research pursuits are described below.
 
 Massive stellar multiplicity
